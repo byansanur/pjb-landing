@@ -1,8 +1,7 @@
 {
     "Header": {
 
-        "title": "Emergency Only If You Want The Best.",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "Emergency Only If You Want The Best."
 
     },
     "About": {
@@ -44,6 +43,11 @@
             "icon": "fa fa-truck-moving",
             "name": "Kargo Jenazah",
             "text": "Kami melayani kargo jenazah maupun tiket pesawat ke seluruh indonesia dengan profesional."
+        },
+        {
+            "icon": "fa fa-box",
+            "name": "Custom Peti Jenazah",
+            "text": "Kami menerima pembuatan peti jenazah sesuai permintaan anda."
         }
 
 
